@@ -14,9 +14,9 @@
 
     <div id="todolist">
         <?php
-            $servidor = "localhost";
+            $servidor = "34.73.214.42";
             $nombreusuario = "root";
-            $password = "123!\"·QWE";
+            $password = "toor";
             $db = "todolistDB";
         
             $conexion = new mysqli($servidor, $nombreusuario, $password, $db);
