@@ -14,7 +14,7 @@
 
     <div id="todolist">
         <?php
-            $servidor = "10.142.0.4";
+            $servidor = "localhost";
             $nombreusuario = "root";
             $password = "toor";
             $db = "todolistDB";
