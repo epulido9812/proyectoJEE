@@ -1,0 +1,362 @@
+2019-03-16 08:26:32,628 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-03-16 10:35:53,964 [Worker-51: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EjbLifecycleMapping lifecycle mapping for MavenProject: EJB-Catalogo:EJB-Catalogo:0.0.1-SNAPSHOT @ D:\developer\worksapaces\catalogo\EJB-Catalogo\pom.xml.
+2019-03-16 10:35:57,015 [Worker-51: Enabling Maven Dependency Management] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 10:35:57,075 [Worker-51: Enabling Maven Dependency Management] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-16 10:35:57,089 [Worker-51: Enabling Maven Dependency Management] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 10:35:57,092 [Worker-51: Enabling Maven Dependency Management] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 10:35:57,101 [Worker-51: Enabling Maven Dependency Management] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 10:36:01,761 [Worker-51: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EJB-Catalogo/src/main/java
+2019-03-16 10:36:01,762 [Worker-51: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /EJB-Catalogo/src/main/java overlaps with sources folder /EJB-Catalogo/src/main/java
+2019-03-16 10:36:01,763 [Worker-51: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EJB-Catalogo/src/main/resources
+2019-03-16 10:36:01,765 [Worker-51: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EJB-Catalogo/src/test/java
+2019-03-16 10:36:01,766 [Worker-51: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EJB-Catalogo/src/test/resources
+2019-03-16 10:37:25,197 [Worker-51: Enabling Maven Dependency Management] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 10:37:25,230 [Worker-51: Enabling Maven Dependency Management] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-16 10:37:25,237 [Worker-51: Enabling Maven Dependency Management] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 10:37:25,240 [Worker-51: Enabling Maven Dependency Management] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 10:37:25,254 [Worker-51: Enabling Maven Dependency Management] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 10:37:25,596 [Worker-51: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-16 10:37:26,221 [Worker-51: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EjbLifecycleMapping lifecycle mapping for MavenProject: EJB-Catalogo:EJB-Catalogo:0.0.1-SNAPSHOT @ D:\developer\worksapaces\catalogo\EJB-Catalogo\pom.xml.
+2019-03-16 10:37:27,076 [Worker-50: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 10:37:27,093 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-16 10:37:27,107 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 10:37:27,110 [Worker-50: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 10:37:27,123 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 10:37:27,163 [Worker-51: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EJB-Catalogo/src/main/java
+2019-03-16 10:37:27,164 [Worker-51: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /EJB-Catalogo/src/main/java overlaps with sources folder /EJB-Catalogo/src/main/java
+2019-03-16 10:37:27,164 [Worker-51: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EJB-Catalogo/src/main/resources
+2019-03-16 10:37:27,166 [Worker-51: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EJB-Catalogo/src/test/java
+2019-03-16 10:37:27,166 [Worker-51: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EJB-Catalogo/src/test/resources
+2019-03-16 10:37:27,320 [Worker-51: Enabling Maven Dependency Management] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 10:37:27,366 [Worker-51: Enabling Maven Dependency Management] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 10:37:27,366 [Worker-51: Enabling Maven Dependency Management] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 10:37:27,368 [Worker-51: Enabling Maven Dependency Management] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 10:37:27,379 [Worker-51: Enabling Maven Dependency Management] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 10:37:27,574 [Worker-51: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-03-16 10:37:28,236 [Worker-52: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 10:37:28,281 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-16 10:37:28,285 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 10:37:28,287 [Worker-52: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 10:37:28,301 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 10:38:29,714 [Worker-50: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 10:38:29,724 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 10:38:29,725 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-16 10:38:29,728 [Worker-50: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 10:38:29,742 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 10:38:37,913 [Worker-54: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 10:38:37,925 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 10:38:37,925 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 10:38:37,926 [Worker-54: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 10:38:37,936 [Worker-54: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 10:39:02,137 [Worker-50: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 10:39:02,150 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 10:39:02,151 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 10:39:02,153 [Worker-50: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 10:39:02,161 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 10:40:38,404 [Worker-55: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 10:40:38,423 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 10:40:38,423 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-03-16 10:40:38,429 [Worker-55: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 10:40:38,440 [Worker-55: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 10:47:24,657 [ModalContext] WARN  o.e.m.j.i.JavaProjectConversionParticipant - WEB-Catalogo has multiple source entries, this is not supported yet
+2019-03-16 10:47:26,677 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/3.2.1/maven-war-plugin-3.2.1.jar
+2019-03-16 10:47:27,039 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/3.2.1/maven-war-plugin-3.2.1.jar
+2019-03-16 10:47:27,619 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: WEB-Catalogo:WEB-Catalogo:0.0.1-SNAPSHOT @ D:\developer\worksapaces\catalogo\WEB-Catalogo\pom.xml.
+2019-03-16 10:47:27,797 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/3.2.1/maven-war-plugin-3.2.1.pom
+2019-03-16 10:47:27,886 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/3.2.1/maven-war-plugin-3.2.1.pom
+2019-03-16 10:47:27,938 [Worker-58: Enabling Maven Dependency Management] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 10:47:27,956 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 10:47:27,957 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-16 10:47:27,969 [Worker-58: Enabling Maven Dependency Management] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 10:47:27,980 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 10:47:27,997 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WEB-Catalogo
+2019-03-16 10:47:27,998 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WEB-Catalogo
+2019-03-16 10:47:28,005 [Worker-58: Enabling Maven Dependency Management] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-clean-plugin:jar:2.5 is missing, no dependency information available
+2019-03-16 10:47:28,031 [Worker-58: Enabling Maven Dependency Management] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 10:47:28,532 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/3.6.0/plexus-archiver-3.6.0.pom
+2019-03-16 10:47:28,619 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/3.6.0/plexus-archiver-3.6.0.pom
+2019-03-16 10:47:28,757 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.0.1/plexus-io-3.0.1.pom
+2019-03-16 10:47:28,838 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.0.1/plexus-io-3.0.1.pom
+2019-03-16 10:47:29,025 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/2.6/commons-io-2.6.pom
+2019-03-16 10:47:29,174 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.6/commons-io-2.6.pom
+2019-03-16 10:47:29,267 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.16.1/commons-compress-1.16.1.pom
+2019-03-16 10:47:29,380 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.16.1/commons-compress-1.16.1.pom
+2019-03-16 10:47:29,472 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/43/commons-parent-43.pom
+2019-03-16 10:47:29,624 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/43/commons-parent-43.pom
+2019-03-16 10:47:29,709 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/objenesis/objenesis/2.6/objenesis-2.6.pom
+2019-03-16 10:47:29,796 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/objenesis/objenesis/2.6/objenesis-2.6.pom
+2019-03-16 10:47:29,875 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/objenesis/objenesis-parent/2.6/objenesis-parent-2.6.pom
+2019-03-16 10:47:29,977 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/objenesis/objenesis-parent/2.6/objenesis-parent-2.6.pom
+2019-03-16 10:47:30,057 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/tukaani/xz/1.8/xz-1.8.pom
+2019-03-16 10:47:30,134 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/tukaani/xz/1.8/xz-1.8.pom
+2019-03-16 10:47:30,223 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.10/xstream-1.4.10.pom
+2019-03-16 10:47:30,387 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.10/xstream-1.4.10.pom
+2019-03-16 10:47:30,471 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.4.10/xstream-parent-1.4.10.pom
+2019-03-16 10:47:30,557 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.4.10/xstream-parent-1.4.10.pom
+2019-03-16 10:47:30,645 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.pom
+2019-03-16 10:47:30,724 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.pom
+2019-03-16 10:47:30,802 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.pom
+2019-03-16 10:47:30,885 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.pom
+2019-03-16 10:47:31,011 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-mapping/3.0.0/maven-mapping-3.0.0.pom
+2019-03-16 10:47:31,119 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-mapping/3.0.0/maven-mapping-3.0.0.pom
+2019-03-16 10:47:31,289 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.21/plexus-interpolation-1.21.pom
+2019-03-16 10:47:31,399 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.21/plexus-interpolation-1.21.pom
+2019-03-16 10:47:31,518 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/3.6.0/plexus-archiver-3.6.0.jar
+2019-03-16 10:47:32,003 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/3.6.0/plexus-archiver-3.6.0.jar
+2019-03-16 10:47:32,062 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.0.1/plexus-io-3.0.1.jar
+2019-03-16 10:47:32,269 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.0.1/plexus-io-3.0.1.jar
+2019-03-16 10:47:32,333 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.16.1/commons-compress-1.16.1.jar
+2019-03-16 10:47:32,537 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.16.1/commons-compress-1.16.1.jar
+2019-03-16 10:47:32,597 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/objenesis/objenesis/2.6/objenesis-2.6.jar
+2019-03-16 10:47:32,799 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/objenesis/objenesis/2.6/objenesis-2.6.jar
+2019-03-16 10:47:32,859 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/tukaani/xz/1.8/xz-1.8.jar
+2019-03-16 10:47:33,150 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/tukaani/xz/1.8/xz-1.8.jar
+2019-03-16 10:47:33,214 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.10/xstream-1.4.10.jar
+2019-03-16 10:47:33,437 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.10/xstream-1.4.10.jar
+2019-03-16 10:47:33,496 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.jar
+2019-03-16 10:47:33,668 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.jar
+2019-03-16 10:47:33,728 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar
+2019-03-16 10:47:33,966 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar
+2019-03-16 10:47:34,025 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-mapping/3.0.0/maven-mapping-3.0.0.jar
+2019-03-16 10:47:34,206 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-mapping/3.0.0/maven-mapping-3.0.0.jar
+2019-03-16 10:47:38,101 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WEB-Catalogo/src/main/java
+2019-03-16 10:47:38,101 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /WEB-Catalogo/src/main/resources
+2019-03-16 10:47:38,102 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /WEB-Catalogo/src/main/webapp
+2019-03-16 10:47:38,104 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WEB-Catalogo/src/test/java
+2019-03-16 10:47:38,105 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /WEB-Catalogo/src/test/resources
+2019-03-16 10:47:38,603 [Worker-58: Enabling Maven Dependency Management] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 10:47:38,615 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 10:47:38,617 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-16 10:47:38,637 [Worker-58: Enabling Maven Dependency Management] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 10:47:38,657 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 10:47:38,658 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WEB-Catalogo
+2019-03-16 10:47:38,659 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WEB-Catalogo
+2019-03-16 10:47:38,666 [Worker-58: Enabling Maven Dependency Management] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 10:47:38,888 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-16 10:47:39,055 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: WEB-Catalogo:WEB-Catalogo:0.0.1-SNAPSHOT @ D:\developer\worksapaces\catalogo\WEB-Catalogo\pom.xml.
+2019-03-16 10:47:40,053 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WEB-Catalogo/src/main/java
+2019-03-16 10:47:40,054 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /WEB-Catalogo/src/main/resources
+2019-03-16 10:47:40,054 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /WEB-Catalogo/src/main/webapp
+2019-03-16 10:47:40,055 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /WEB-Catalogo/src/test/java
+2019-03-16 10:47:40,056 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /WEB-Catalogo/src/test/resources
+2019-03-16 10:47:40,244 [Worker-58: Enabling Maven Dependency Management] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 10:47:40,255 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 10:47:40,256 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-16 10:47:40,267 [Worker-58: Enabling Maven Dependency Management] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 10:47:40,285 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 10:47:40,286 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WEB-Catalogo
+2019-03-16 10:47:40,286 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WEB-Catalogo
+2019-03-16 10:47:40,291 [Worker-58: Enabling Maven Dependency Management] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 10:47:40,422 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for WEB-Catalogo
+2019-03-16 10:47:40,435 [Worker-58: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-03-16 10:47:40,565 [Worker-59: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 10:47:40,584 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 10:47:40,585 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-16 10:47:40,594 [Worker-59: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 10:47:40,607 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 10:47:40,607 [Worker-59: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of WEB-Catalogo
+2019-03-16 10:47:40,607 [Worker-59: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for WEB-Catalogo
+2019-03-16 10:47:40,613 [Worker-59: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 10:48:17,838 [Worker-59: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 10:48:17,847 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 10:48:17,847 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 10:48:17,848 [Worker-59: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 10:48:17,857 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 10:48:26,283 [Worker-59: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 10:48:26,294 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 10:48:26,294 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 10:48:26,295 [Worker-59: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 10:48:26,304 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 10:54:12,611 [Worker-59: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WEB-Catalogo: WEB-Catalogo:WEB-Catalogo:0.0.1-SNAPSHOT with classifier  to /WEB-Catalogo/target/classes
+2019-03-16 10:54:12,612 [Worker-59: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EJB-Catalogo: EJB-Catalogo:EJB-Catalogo:0.0.1-SNAPSHOT with classifier  to /EJB-Catalogo/target/classes
+2019-03-16 10:54:12,620 [Worker-59: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WEB-Catalogo: WEB-Catalogo:WEB-Catalogo:0.0.1-SNAPSHOT with classifier  to /WEB-Catalogo/target/classes
+2019-03-16 10:54:12,621 [Worker-59: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EJB-Catalogo: EJB-Catalogo:EJB-Catalogo:0.0.1-SNAPSHOT with classifier  to /EJB-Catalogo/target/classes
+2019-03-16 10:54:13,717 [Worker-50: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-ear-plugin/3.0.1/maven-ear-plugin-3.0.1.jar
+2019-03-16 10:54:14,039 [Worker-50: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-ear-plugin/3.0.1/maven-ear-plugin-3.0.1.jar
+2019-03-16 10:54:14,387 [Worker-50: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EarLifecycleMapping lifecycle mapping for MavenProject: EAR-Catalogo:EAR-Catalogo:0.0.1-SNAPSHOT @ D:\developer\worksapaces\catalogo\EAR-Catalogo\pom.xml.
+2019-03-16 10:54:14,391 [Worker-50: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WEB-Catalogo: WEB-Catalogo:WEB-Catalogo:0.0.1-SNAPSHOT with classifier  to /WEB-Catalogo/target/classes
+2019-03-16 10:54:14,391 [Worker-50: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EJB-Catalogo: EJB-Catalogo:EJB-Catalogo:0.0.1-SNAPSHOT with classifier  to /EJB-Catalogo/target/classes
+2019-03-16 10:54:14,773 [Worker-50: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-ear-plugin/3.0.1/maven-ear-plugin-3.0.1.pom
+2019-03-16 10:54:14,854 [Worker-50: Enabling Maven Dependency Management] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-ear-plugin/3.0.1/maven-ear-plugin-3.0.1.pom
+2019-03-16 10:54:14,985 [Worker-50: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WEB-Catalogo: WEB-Catalogo:WEB-Catalogo:0.0.1-SNAPSHOT with classifier  to /WEB-Catalogo/target/classes
+2019-03-16 10:54:14,985 [Worker-50: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EJB-Catalogo: EJB-Catalogo:EJB-Catalogo:0.0.1-SNAPSHOT with classifier  to /EJB-Catalogo/target/classes
+2019-03-16 10:54:16,231 [Worker-50: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-16 10:54:16,326 [Worker-50: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EarLifecycleMapping lifecycle mapping for MavenProject: EAR-Catalogo:EAR-Catalogo:0.0.1-SNAPSHOT @ D:\developer\worksapaces\catalogo\EAR-Catalogo\pom.xml.
+2019-03-16 10:54:16,332 [Worker-50: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WEB-Catalogo: WEB-Catalogo:WEB-Catalogo:0.0.1-SNAPSHOT with classifier  to /WEB-Catalogo/target/classes
+2019-03-16 10:54:16,332 [Worker-50: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EJB-Catalogo: EJB-Catalogo:EJB-Catalogo:0.0.1-SNAPSHOT with classifier  to /EJB-Catalogo/target/classes
+2019-03-16 10:54:16,816 [Worker-50: Enabling Maven Dependency Management] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for EAR-Catalogo
+2019-03-16 10:54:16,820 [Worker-50: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-03-16 10:54:16,933 [Worker-63: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WEB-Catalogo: WEB-Catalogo:WEB-Catalogo:0.0.1-SNAPSHOT with classifier  to /WEB-Catalogo/target/classes
+2019-03-16 10:54:16,933 [Worker-63: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EJB-Catalogo: EJB-Catalogo:EJB-Catalogo:0.0.1-SNAPSHOT with classifier  to /EJB-Catalogo/target/classes
+2019-03-16 10:54:16,944 [Worker-63: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of EAR-Catalogo
+2019-03-16 10:54:16,944 [Worker-63: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for EAR-Catalogo
+2019-03-16 10:54:17,247 [Worker-63: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 10:54:17,259 [Worker-63: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 10:54:17,268 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\developer\worksapaces\catalogo\EAR-Catalogo\src\main\resources
+2019-03-16 10:55:35,798 [Worker-65: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 10:55:35,808 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\developer\worksapaces\catalogo\EAR-Catalogo\src\main\resources
+2019-03-16 11:39:50,414 [Worker-76: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 11:39:50,540 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 11:39:50,541 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-16 11:39:50,558 [Worker-76: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 11:39:50,569 [Worker-76: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 12:29:05,563 [Worker-82: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EjbLifecycleMapping lifecycle mapping for MavenProject: EJB-Catalogo:EJB-Catalogo:0.0.1-SNAPSHOT @ D:\developer\worksapaces\catalogo\EJB-Catalogo\pom.xml.
+2019-03-16 12:29:05,984 [Worker-82: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/eclipselink/2.5.0/eclipselink-2.5.0.pom
+2019-03-16 12:29:06,197 [Worker-82: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/eclipselink/2.5.0/eclipselink-2.5.0.pom
+2019-03-16 12:29:06,285 [Worker-82: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/javax.persistence/2.1.0/javax.persistence-2.1.0.pom
+2019-03-16 12:29:06,369 [Worker-82: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/javax.persistence/2.1.0/javax.persistence-2.1.0.pom
+2019-03-16 12:29:06,454 [Worker-82: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/commonj.sdo/2.1.1/commonj.sdo-2.1.1.pom
+2019-03-16 12:29:06,575 [Worker-82: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/commonj.sdo/2.1.1/commonj.sdo-2.1.1.pom
+2019-03-16 12:29:06,749 [Worker-82: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/eclipselink/2.5.0/eclipselink-2.5.0.jar
+2019-03-16 12:29:07,643 [Worker-82: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/eclipselink/2.5.0/eclipselink-2.5.0.jar
+2019-03-16 12:29:07,703 [Worker-82: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/javax.persistence/2.1.0/javax.persistence-2.1.0.jar
+2019-03-16 12:29:08,100 [Worker-82: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/javax.persistence/2.1.0/javax.persistence-2.1.0.jar
+2019-03-16 12:29:08,161 [Worker-82: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/commonj.sdo/2.1.1/commonj.sdo-2.1.1.jar
+2019-03-16 12:29:08,531 [Worker-82: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/commonj.sdo/2.1.1/commonj.sdo-2.1.1.jar
+2019-03-16 12:29:09,448 [Worker-82: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EarLifecycleMapping lifecycle mapping for MavenProject: EAR-Catalogo:EAR-Catalogo:0.0.1-SNAPSHOT @ D:\developer\worksapaces\catalogo\EAR-Catalogo\pom.xml.
+2019-03-16 12:29:09,452 [Worker-82: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WEB-Catalogo: WEB-Catalogo:WEB-Catalogo:0.0.1-SNAPSHOT with classifier  to /WEB-Catalogo/target/classes
+2019-03-16 12:29:09,453 [Worker-82: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EJB-Catalogo: EJB-Catalogo:EJB-Catalogo:0.0.1-SNAPSHOT with classifier  to /EJB-Catalogo/target/classes
+2019-03-16 12:29:09,477 [Worker-82: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 12:29:09,495 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 12:29:09,495 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 12:29:09,496 [Worker-82: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 12:29:09,506 [Worker-82: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 12:29:11,828 [Worker-78: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 12:29:11,847 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 12:29:11,848 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-16 12:29:11,866 [Worker-78: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 12:29:11,886 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 12:29:11,965 [Worker-78: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WEB-Catalogo: WEB-Catalogo:WEB-Catalogo:0.0.1-SNAPSHOT with classifier  to /WEB-Catalogo/target/classes
+2019-03-16 12:29:11,965 [Worker-78: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EJB-Catalogo: EJB-Catalogo:EJB-Catalogo:0.0.1-SNAPSHOT with classifier  to /EJB-Catalogo/target/classes
+2019-03-16 12:29:11,975 [Worker-78: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 12:29:11,991 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\developer\worksapaces\catalogo\EAR-Catalogo\src\main\resources
+2019-03-16 12:29:12,423 [Worker-85: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/eclipselink/2.5.0/eclipselink-2.5.0-sources.jar
+2019-03-16 12:29:13,438 [Worker-85: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/eclipselink/2.5.0/eclipselink-2.5.0-sources.jar
+2019-03-16 12:29:13,650 [Worker-85: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.persistence:eclipselink:2.5.0
+2019-03-16 12:29:13,721 [Worker-85: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/javax.persistence/2.1.0/javax.persistence-2.1.0-sources.jar
+2019-03-16 12:29:13,830 [Worker-85: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/javax.persistence/2.1.0/javax.persistence-2.1.0-sources.jar
+2019-03-16 12:29:14,005 [Worker-85: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.persistence:javax.persistence:2.1.0
+2019-03-16 12:29:14,071 [Worker-85: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/persistence/commonj.sdo/2.1.1/commonj.sdo-2.1.1-sources.jar
+2019-03-16 12:29:14,356 [Worker-85: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/persistence/commonj.sdo/2.1.1/commonj.sdo-2.1.1-sources.jar
+2019-03-16 12:29:14,631 [Worker-85: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.persistence:commonj.sdo:2.1.1
+2019-03-16 12:29:14,642 [Worker-85: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.persistence:eclipselink:2.5.0
+2019-03-16 12:29:14,651 [Worker-85: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.persistence:javax.persistence:2.1.0
+2019-03-16 12:29:14,660 [Worker-85: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.eclipse.persistence:commonj.sdo:2.1.1
+2019-03-16 12:29:15,148 [Worker-85: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 12:29:15,163 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 12:29:15,163 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 12:29:15,165 [Worker-85: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 12:29:15,180 [Worker-85: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 12:30:21,184 [Worker-84: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-16 12:30:22,836 [Worker-84: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EjbLifecycleMapping lifecycle mapping for MavenProject: EJB-Catalogo:EJB-Catalogo:0.0.1-SNAPSHOT @ D:\developer\worksapaces\catalogo\EJB-Catalogo\pom.xml.
+2019-03-16 12:30:22,909 [Worker-84: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EarLifecycleMapping lifecycle mapping for MavenProject: EAR-Catalogo:EAR-Catalogo:0.0.1-SNAPSHOT @ D:\developer\worksapaces\catalogo\EAR-Catalogo\pom.xml.
+2019-03-16 12:30:22,912 [Worker-84: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WEB-Catalogo: WEB-Catalogo:WEB-Catalogo:0.0.1-SNAPSHOT with classifier  to /WEB-Catalogo/target/classes
+2019-03-16 12:30:22,913 [Worker-84: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EJB-Catalogo: EJB-Catalogo:EJB-Catalogo:0.0.1-SNAPSHOT with classifier  to /EJB-Catalogo/target/classes
+2019-03-16 12:30:24,676 [Worker-84: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EJB-Catalogo/src/main/java
+2019-03-16 12:30:24,676 [Worker-84: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /EJB-Catalogo/src/main/java overlaps with sources folder /EJB-Catalogo/src/main/java
+2019-03-16 12:30:24,679 [Worker-84: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EJB-Catalogo/src/main/resources
+2019-03-16 12:30:24,680 [Worker-84: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EJB-Catalogo/src/test/java
+2019-03-16 12:30:24,680 [Worker-84: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EJB-Catalogo/src/test/resources
+2019-03-16 12:30:25,446 [Worker-84: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 12:30:25,463 [Worker-84: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 12:30:25,464 [Worker-84: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-16 12:30:25,474 [Worker-84: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 12:30:25,488 [Worker-84: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 12:30:25,655 [Worker-84: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2019-03-16 12:30:26,263 [Worker-84: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 12:30:26,271 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 12:30:26,272 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-16 12:30:26,282 [Worker-84: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 12:30:26,290 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 12:30:26,323 [Worker-84: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WEB-Catalogo: WEB-Catalogo:WEB-Catalogo:0.0.1-SNAPSHOT with classifier  to /WEB-Catalogo/target/classes
+2019-03-16 12:30:26,324 [Worker-84: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EJB-Catalogo: EJB-Catalogo:EJB-Catalogo:0.0.1-SNAPSHOT with classifier  to /EJB-Catalogo/target/classes
+2019-03-16 12:30:26,327 [Worker-84: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 12:30:26,335 [Worker-84: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\developer\worksapaces\catalogo\EAR-Catalogo\src\main\resources
+2019-03-16 12:31:33,719 [Worker-85: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-16 12:31:35,709 [Worker-85: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EjbLifecycleMapping lifecycle mapping for MavenProject: EJB-Catalogo:EJB-Catalogo:0.0.1-SNAPSHOT @ D:\developer\worksapaces\catalogo\EJB-Catalogo\pom.xml.
+2019-03-16 12:31:35,845 [Worker-85: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EarLifecycleMapping lifecycle mapping for MavenProject: EAR-Catalogo:EAR-Catalogo:0.0.1-SNAPSHOT @ D:\developer\worksapaces\catalogo\EAR-Catalogo\pom.xml.
+2019-03-16 12:31:35,871 [Worker-85: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WEB-Catalogo: WEB-Catalogo:WEB-Catalogo:0.0.1-SNAPSHOT with classifier  to /WEB-Catalogo/target/classes
+2019-03-16 12:31:35,871 [Worker-85: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EJB-Catalogo: EJB-Catalogo:EJB-Catalogo:0.0.1-SNAPSHOT with classifier  to /EJB-Catalogo/target/classes
+2019-03-16 12:31:38,487 [Worker-85: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EJB-Catalogo/src/main/java
+2019-03-16 12:31:38,487 [Worker-85: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /EJB-Catalogo/src/main/java overlaps with sources folder /EJB-Catalogo/src/main/java
+2019-03-16 12:31:38,488 [Worker-85: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EJB-Catalogo/src/main/resources
+2019-03-16 12:31:38,488 [Worker-85: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EJB-Catalogo/src/test/java
+2019-03-16 12:31:38,488 [Worker-85: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EJB-Catalogo/src/test/resources
+2019-03-16 12:31:38,668 [Worker-85: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 12:31:38,761 [Worker-85: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 12:31:38,762 [Worker-85: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-16 12:31:38,769 [Worker-85: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 12:31:38,779 [Worker-85: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 12:31:38,989 [Worker-85: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2019-03-16 12:31:39,498 [Worker-80: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 12:31:39,512 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 12:31:39,512 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-16 12:31:39,526 [Worker-80: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 12:31:39,539 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 12:31:39,586 [Worker-80: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WEB-Catalogo: WEB-Catalogo:WEB-Catalogo:0.0.1-SNAPSHOT with classifier  to /WEB-Catalogo/target/classes
+2019-03-16 12:31:39,586 [Worker-80: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EJB-Catalogo: EJB-Catalogo:EJB-Catalogo:0.0.1-SNAPSHOT with classifier  to /EJB-Catalogo/target/classes
+2019-03-16 12:31:39,590 [Worker-80: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 12:31:39,601 [Worker-80: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\developer\worksapaces\catalogo\EAR-Catalogo\src\main\resources
+2019-03-16 12:34:22,385 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-03-16 12:35:01,147 [Worker-87: Launching EJB-Catalogo] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\developer\worksapaces\catalogo\EJB-Catalogo
+2019-03-16 12:35:01,148 [Worker-87: Launching EJB-Catalogo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -U -Dmaven.test.skip=true -DskipTests package install
+2019-03-16 12:36:29,066 [Worker-87: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 12:36:29,191 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 12:36:29,192 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-16 12:36:29,204 [Worker-87: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 12:36:29,212 [Worker-87: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 12:36:33,805 [Worker-89: Rebuilding] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 12:36:33,814 [Worker-89: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 12:36:33,815 [Worker-89: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-16 12:36:33,822 [Worker-89: Rebuilding] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 12:36:33,835 [Worker-89: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 12:36:39,195 [Worker-87: Building Project EJB-Catalogo] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 12:36:39,207 [Worker-87: Building Project EJB-Catalogo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 12:36:39,207 [Worker-87: Building Project EJB-Catalogo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-16 12:36:39,223 [Worker-87: Building Project EJB-Catalogo] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 12:36:39,239 [Worker-87: Building Project EJB-Catalogo] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 12:36:47,436 [Worker-78: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EjbLifecycleMapping lifecycle mapping for MavenProject: EJB-Catalogo:EJB-Catalogo:0.0.1-SNAPSHOT @ D:\developer\worksapaces\catalogo\EJB-Catalogo\pom.xml.
+2019-03-16 12:36:48,532 [Worker-78: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 12:36:48,546 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 12:36:48,546 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 12:36:48,547 [Worker-78: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 12:36:48,556 [Worker-78: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 12:36:52,500 [Worker-88: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-16 12:36:52,893 [Worker-88: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EjbLifecycleMapping lifecycle mapping for MavenProject: EJB-Catalogo:EJB-Catalogo:0.0.1-SNAPSHOT @ D:\developer\worksapaces\catalogo\EJB-Catalogo\pom.xml.
+2019-03-16 12:36:52,972 [Worker-88: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EarLifecycleMapping lifecycle mapping for MavenProject: EAR-Catalogo:EAR-Catalogo:0.0.1-SNAPSHOT @ D:\developer\worksapaces\catalogo\EAR-Catalogo\pom.xml.
+2019-03-16 12:36:52,976 [Worker-88: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WEB-Catalogo: WEB-Catalogo:WEB-Catalogo:0.0.1-SNAPSHOT with classifier  to /WEB-Catalogo/target/classes
+2019-03-16 12:36:52,977 [Worker-88: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EJB-Catalogo: EJB-Catalogo:EJB-Catalogo:0.0.1-SNAPSHOT with classifier  to /EJB-Catalogo/target/classes
+2019-03-16 12:36:54,343 [Worker-88: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EJB-Catalogo/src/main/java
+2019-03-16 12:36:54,343 [Worker-88: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /EJB-Catalogo/src/main/java overlaps with sources folder /EJB-Catalogo/src/main/java
+2019-03-16 12:36:54,344 [Worker-88: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EJB-Catalogo/src/main/resources
+2019-03-16 12:36:54,344 [Worker-88: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /EJB-Catalogo/src/test/java
+2019-03-16 12:36:54,344 [Worker-88: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /EJB-Catalogo/src/test/resources
+2019-03-16 12:36:55,065 [Worker-88: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 12:36:55,077 [Worker-88: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 12:36:55,078 [Worker-88: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-16 12:36:55,086 [Worker-88: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 12:36:55,094 [Worker-88: Updating Maven Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 12:36:55,226 [Worker-88: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2019-03-16 12:36:55,894 [Worker-88: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 12:36:55,909 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 12:36:55,909 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-16 12:36:55,922 [Worker-88: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 12:36:55,934 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-16 12:36:55,966 [Worker-88: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/WEB-Catalogo: WEB-Catalogo:WEB-Catalogo:0.0.1-SNAPSHOT with classifier  to /WEB-Catalogo/target/classes
+2019-03-16 12:36:55,966 [Worker-88: Building workspace] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/EJB-Catalogo: EJB-Catalogo:EJB-Catalogo:0.0.1-SNAPSHOT with classifier  to /EJB-Catalogo/target/classes
+2019-03-16 12:36:55,971 [Worker-88: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-16 12:36:55,983 [Worker-88: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\developer\worksapaces\catalogo\EAR-Catalogo\src\main\resources
+2019-03-16 12:37:01,224 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-03-16 12:37:01,485 [Worker-90: Launching EJB-Catalogo] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\developer\worksapaces\catalogo\EJB-Catalogo
+2019-03-16 12:37:01,485 [Worker-90: Launching EJB-Catalogo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -U -Dmaven.test.skip=true -DskipTests package install
+2019-03-23 08:35:27,160 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-23 08:35:36,907 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 08:35:37,003 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-23 08:35:37,005 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-23 08:35:37,046 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 08:35:37,054 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-23 08:38:49,429 [Worker-21: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 08:38:49,437 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-03-23 08:38:49,438 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2019-03-23 08:38:49,440 [Worker-21: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-23 08:38:49,447 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

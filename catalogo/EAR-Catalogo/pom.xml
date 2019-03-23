@@ -1,0 +1,35 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>EAR-Catalogo</groupId>
+  <artifactId>EAR-Catalogo</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>ear</packaging>
+  <dependencies>
+    <dependency>
+      <groupId>WEB-Catalogo</groupId>
+      <artifactId>WEB-Catalogo</artifactId>
+      <version>0.0.1-SNAPSHOT</version>
+      <type>war</type>
+    </dependency>
+    <dependency>
+      <groupId>EJB-Catalogo</groupId>
+      <artifactId>EJB-Catalogo</artifactId>
+      <version>0.0.1-SNAPSHOT</version>
+      <type>ejb</type>
+    </dependency>
+  </dependencies>
+  <build>
+    <plugins>
+      <plugin>
+        <artifactId>maven-ear-plugin</artifactId>
+        <version>3.0.1</version>
+        <configuration>
+          <earSourceDirectory>EarContent</earSourceDirectory>
+          <generateApplicationXml>false</generateApplicationXml>
+          <version>6</version>
+          <defaultLibBundleDir>lib</defaultLibBundleDir>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
+</project>
