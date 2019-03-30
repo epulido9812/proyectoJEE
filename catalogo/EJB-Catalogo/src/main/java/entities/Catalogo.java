@@ -9,9 +9,12 @@ import javax.persistence.*;
  * 
  */
 @Entity
-@NamedQuery(name="Catalogo.findAll", query="SELECT c FROM Catalogo c")
+@NamedQueries({ 
+	@NamedQuery(name = Catalogo.buscarTodosCatalogo, query = "SELECT g from Catalogo g")
+})
 public class Catalogo implements Serializable {
 	private static final long serialVersionUID = 1L;
+	public final static String buscarTodosCatalogo = "entities.Genero.buscarTodosCatalogo";
 
 	@Id
 	private int idcatalogo;
