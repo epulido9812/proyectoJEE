@@ -1,2 +1,6 @@
-D:\developer\worksapaces\catalogo\EJB-Catalogo\src\main\java\model\Catalogo.java
-D:\developer\worksapaces\catalogo\EJB-Catalogo\src\main\java\model\Genero.java
+D:\developer\worksapaces\catalogo\EJB-Catalogo\src\main\java\entities\Catalogo.java
+D:\developer\worksapaces\catalogo\EJB-Catalogo\src\main\java\session\SessionEJB.java
+D:\developer\worksapaces\catalogo\EJB-Catalogo\src\main\java\dao\GenericDAO.java
+D:\developer\worksapaces\catalogo\EJB-Catalogo\src\main\java\entities\Genero.java
+D:\developer\worksapaces\catalogo\EJB-Catalogo\src\main\java\session\ISessionEJB.java
+D:\developer\worksapaces\catalogo\EJB-Catalogo\src\main\java\dao\GeneroDAO.java

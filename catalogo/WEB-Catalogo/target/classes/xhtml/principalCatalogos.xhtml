@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:p="http://primefaces.org/ui">
+<h:head>
+	<title>Laboratorio JEE</title>
+</h:head>
+<h:body>
+	<h:form id="frmPrincipal">
+		<p:panel id="pnlPrincipal" header="Panel Generos">
+			<center>
+				<p:panelGrid columns="2">
+					<p:outputLabel value="ID Genero: " />
+					<p:inputText id="idGenero" value="#{catalogoMB.txtIdGenero}"
+						disabled="#{catalogoMB.blHabilitarId}" />
+					<p:outputLabel value="Nombre: " />
+					<p:inputText id="idNombre" value="#{catalogoMB.txtNombreGenero}" />
+				</p:panelGrid>
+			</center>
+			<p:separator styleClass="hr-horizontal" />
+			<center>
+				<p:panelGrid columns="3">
+					<p:commandButton id="btnGuardar"
+						actionListener="#{catalogoMB.guardarGenero}" value="Guardar"
+						update=":frmPrincipal:idGenero" />
+					<p:commandButton id="btnLimpiar"
+						actionListener="#{catalogoMB.limpiar}" value="Limpiar"
+						update=":frmPrincipal" />
+					<p:commandButton id="btnConsultar"
+						onclick="PF('wvDlgTodosGenero').show();"
+						actionListener="#{catalogoMB.buscarTodosGenero}"
+						value="Consultar" update=":frmDlgTodosGenero:dtbTodosGenero" />
+				</p:panelGrid>
+			</center>
+		</p:panel>
+	</h:form>
+
+
+	<p:dialog id="dlgTodosGenero" header="Listado de Generos" modal="true"
+		closable="true" widgetVar="wvDlgTodosGenero" resizable="false"
+		draggable="false" width="500">
+
+		<h:form id="frmDlgTodosGenero">
+
+			<p:panel id="pnlTodosGenero" width="500">
+
+				<p:dataTable id="dtbTodosGenero" var="vTodosGenero"
+					rowIndexVar="dtbTodosGeneroIndex" widgetVar="wdTodosGenero"
+					value="#{catalogoMB.lGenero}" emptyMessage="No existen Generos"
+					resizableColumns="false" paginator="true" rows="5"
+					paginatorPosition="bottom"
+					paginatorTemplate="{FirstPageLink} {PreviousPageLink} {PageLinks} {NextPageLink} {LastPageLink} {RowsPerPageDropdown}"
+					rowsPerPageTemplate="5,10,15" rowKey="#{vTodosGenero.idgenero}"
+					selection="#{catalogoMB.genero}" selectionMode="single">
+
+					<p:column sortBy="#{vTodosGenero.idgenero}"
+						filterBy="#{vTodosGenero.idgenero}" headerText="Id"
+						filterMatchMode="contains">
+						<h:outputText value="#{vTodosGenero.idgenero}" />
+					</p:column>
+
+					<p:column sortBy="#{vTodosGenero.nombre}"
+						filterBy="#{vTodosGenero.nombre}" headerText="Nombre"
+						filterMatchMode="contains">
+						<h:outputText value="#{vTodosGenero.nombre}" />
+					</p:column>
+
+					<p:column style="width:32px;text-align: center">
+						<p:commandButton update=":frmPrincipal" icon="ui-icon-pencil"
+							title="Editar" action="#{catalogoMB.seleccionarGenero}"
+							onclick="PF('wvDlgTodosGenero').hide();">
+							<f:setPropertyActionListener value="#{vTodosGenero}"
+								target="#{catalogoMB.genero}" />
+						</p:commandButton>
+					</p:column>
+
+
+				</p:dataTable>
+			</p:panel>
+
+		</h:form>
+
+	</p:dialog>
+
+</h:body>
+</html>
